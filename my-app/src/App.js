@@ -14,15 +14,9 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
           <br/> 
           <br/> 
-          <Card text="dark" style={{ width: '72rem' }}>
-            <Card.Header>about</Card.Header>
-            <Card.Body>
-              <Card.Text>
-              安全な (anzen'na) is Japanese for <code>secure</code>. We are a solidity smart contract security auditing firm based in United States. 
-              </Card.Text>
+        
               <Button variant="info" size="lg" href="mailto:contact@anzenna.co">Request an audit</Button>
-            </Card.Body>
-          </Card>
+
         </span>
       </header>
 
